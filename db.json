@@ -1,0 +1,1141 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "company": [
+    {
+      "id": 1,
+      "companyName": "ESSAR pvt ltd",
+      "contactPersonName": "Shivam Siddhapura",
+      "email": "shivam@gmail.com",
+      "phone": 7990565083,
+      "website": "www.Essar.com",
+      "address": [
+        {
+          "mainAddress": "97, Govind Nagar Society, Honey Park"
+        },
+        {
+          "billingAddress": "97, Govind Nagar Society, Honey Park"
+        }
+      ],
+      "number": [
+        {
+          "subPersonName": "Sajan",
+          "subContact0": "7990565083",
+          "contactRoles": [
+            "Admin",
+            "Higher-Authority"
+          ],
+          "isPrimary": false,
+          "contactMethod": [
+            {
+              "contactMethodType": "work"
+            }
+          ]
+        },
+        {
+          "subPersonName": "Roy",
+          "subContact1": "9825100517",
+          "contactRoles": [
+            "Admin",
+            "Higher-Authority"
+          ],
+          "isPrimary": false,
+          "contactMethod": [
+            {
+              "contactMethodType": "work"
+            }
+          ]
+        },
+        {
+          "subPersonName": "Bhuvan",
+          "subContact2": "8401840200",
+          "contactRoles": [
+            "HR",
+            "Manager"
+          ],
+          "isPrimary": false,
+          "contactMethod": [
+            {
+              "contactMethodType": "work"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "companyName": "L&T",
+      "contactPersonName": "Bharat Siddhapura",
+      "email": "bas@gmail.com",
+      "phone": 9879200036,
+      "website": "www.l&t.com",
+      "address": [
+        {
+          "mainAddress": "anything will work"
+        },
+        {
+          "billingAddress": "near Reliance"
+        }
+      ],
+      "number": [
+        {
+          "subPersonName": "Prakash",
+          "subContact0": "7984228669",
+          "contactRoles": [
+            "Admin",
+            "Higher-Authority"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "work"
+            }
+          ]
+        },
+        {
+          "subPersonName": "Paresh",
+          "subContact1": "8320487694",
+          "contactRoles": [
+            "Admin",
+            "Higher-Authority",
+            "HR",
+            "Manager"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "work"
+            }
+          ]
+        },
+        {
+          "subPersonName": "Chiman",
+          "subContact2": "9712616156",
+          "contactRoles": [
+            "Higher-Authority"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "fax"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "companyName": "Reliance",
+      "contactPersonName": "Mukesh Ambani",
+      "email": "mukesh@gmail.com",
+      "phone": 9856712790,
+      "website": "www.reliance.com",
+      "address": [
+        {
+          "mainAddress": "901, Rangoli Park"
+        },
+        {
+          "billingAddress": "Near ONGC"
+        }
+      ],
+      "number": [
+        {
+          "subPersonName": "Ashok",
+          "subContact0": "7658012760",
+          "contactRoles": [
+            "Higher-Authority"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "home"
+            }
+          ]
+        },
+        {
+          "subPersonName": "Kabir",
+          "subContact1": "8980007820",
+          "contactRoles": [
+            "Admin"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "work"
+            }
+          ]
+        },
+        {
+          "subPersonName": "Rehman",
+          "subContact2": "9898778098",
+          "contactRoles": [
+            "HR"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "fax"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "companyName": "AM|NS",
+      "contactPersonName": "Laxmi Mittal",
+      "email": "laxmi@gmail.com",
+      "phone": 6353897098,
+      "website": "www.amns.com",
+      "address": [
+        {
+          "mainAddress": "101, Washington Park"
+        },
+        {
+          "billingAddress": "Near Clock Tower"
+        }
+      ],
+      "number": [
+        {
+          "subPersonName": "Ayush",
+          "subContact0": "7990588444",
+          "contactRoles": [
+            "Admin",
+            "Higher-Authority"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "home"
+            }
+          ]
+        },
+        {
+          "subPersonName": "Pinky",
+          "subContact1": "8980007820",
+          "contactRoles": [
+            "Admin",
+            "HR",
+            "Manager"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "work"
+            }
+          ]
+        },
+        {
+          "subPersonName": "Kenil",
+          "subContact2": "3333337879",
+          "contactRoles": [
+            "Admin"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "home"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "companyName": "Phonix's",
+      "contactPersonName": "Shivam Siddhapura",
+      "email": "s@gmail.com",
+      "phone": 7990565083,
+      "website": "www.shivam.com",
+      "address": [
+        {
+          "mainAddress": "fbfbb"
+        },
+        {
+          "billingAddress": "nnnnhny"
+        }
+      ],
+      "number": [
+        {
+          "subPersonName": "Abhishek",
+          "subContact0": "7990588444",
+          "contactRoles": [
+            "Admin"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "fax"
+            }
+          ]
+        },
+        {
+          "subPersonName": "Rashi",
+          "subContact1": "8767890912",
+          "contactRoles": [
+            "Admin"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "home"
+            }
+          ]
+        },
+        {
+          "subPersonName": "Rohan",
+          "subContact2": "87829092",
+          "contactRoles": [
+            "Admin",
+            "Higher-Authority"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "home"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "companyName": "SID's Pvt Ltd",
+      "contactPersonName": "Shivam Siddhapura",
+      "email": "s@gmail.com",
+      "phone": 8769017829,
+      "website": "www.sid.com",
+      "address": [
+        {
+          "mainAddress": "hnhg"
+        },
+        {
+          "billingAddress": "ttyhrthrher"
+        }
+      ],
+      "number": [
+        {
+          "subPersonName": "Jaimin",
+          "subContact0": 7787890978,
+          "contactRoles": [
+            "Admin",
+            "Higher-Authority"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "work"
+            }
+          ]
+        },
+        {
+          "subPersonName": "Sandhya",
+          "subContact1": "8320487694",
+          "contactRoles": [
+            "Admin"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "work"
+            }
+          ]
+        },
+        {
+          "subPersonName": "Rakesh",
+          "subContact2": "9879200036",
+          "contactRoles": [
+            "Admin",
+            "Higher-Authority"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "fax"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "companyName": "Austin Pvt Ltd",
+      "contactPersonName": "Steve",
+      "email": "s@gmail.com",
+      "phone": 1257879012,
+      "website": "www.austin.com",
+      "address": [
+        {
+          "mainAddress": "Main Road House"
+        },
+        {
+          "billingAddress": "Township"
+        }
+      ],
+      "number": [
+        {
+          "subPersonName": "Khushi",
+          "subContact0": "7990588444",
+          "contactRoles": [
+            "Admin",
+            "Higher-Authority"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "work"
+            }
+          ]
+        },
+        {
+          "subPersonName": "Jay",
+          "subContact1": "66677777776",
+          "contactRoles": [
+            "Manager"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "work"
+            }
+          ]
+        },
+        {
+          "subPersonName": "Manthan",
+          "subContact2": "7789098767",
+          "contactRoles": [
+            "HR"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "fax"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "companyName": "Axen",
+      "contactPersonName": "Shivam",
+      "email": "shivam@gmail.com",
+      "phone": 8767890987,
+      "website": "www.axen.com",
+      "address": [
+        {
+          "mainAddress": "hello"
+        },
+        {
+          "billingAddress": "Shivam"
+        }
+      ],
+      "number": [
+        {
+          "subPersonName": "Riya",
+          "subContact0": "7990588444",
+          "contactRoles": [
+            "Admin",
+            "Higher-Authority"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "work"
+            }
+          ]
+        },
+        {
+          "subPersonName": "Het",
+          "subContact1": "9825100517",
+          "contactRoles": [
+            "Higher-Authority",
+            "HR"
+          ],
+          "isPrimary": false,
+          "contactMethod": [
+            {
+              "contactMethodType": "work"
+            }
+          ]
+        },
+        {
+          "subPersonName": "Kashish",
+          "subContact2": "6786780971",
+          "contactRoles": [
+            "Higher-Authority"
+          ],
+          "isPrimary": "",
+          "contactMethod": [
+            {
+              "contactMethodType": "fax"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "companyName": "Infosys",
+      "contactPersonName": "Ahmed Patel",
+      "email": "ahmed@gmail.com",
+      "phone": 5679809809,
+      "website": "www.infosys.com",
+      "address": [
+        {
+          "mainAddress": "101, Green Avenue Complex"
+        },
+        {
+          "billingAddress": "Mahatma Gandhi Road"
+        }
+      ],
+      "number": [
+        {
+          "subPersonName": "Riya",
+          "subContact0": "8790987168",
+          "contactRoles": [
+            "Admin",
+            "Higher-Authority"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "work"
+            }
+          ]
+        },
+        {
+          "subPersonName": "Khushi",
+          "subContact1": "8788909871",
+          "contactRoles": [
+            "Higher-Authority",
+            "HR",
+            "Manager"
+          ],
+          "isPrimary": "",
+          "contactMethod": [
+            {
+              "contactMethodType": "work"
+            }
+          ]
+        },
+        {
+          "subPersonName": "Prajay",
+          "subContact2": "7789097891",
+          "contactRoles": [
+            "Manager"
+          ],
+          "isPrimary": false,
+          "contactMethod": [
+            {
+              "contactMethodType": "fax"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "companyName": "MontainsDriven Technologies",
+      "contactPersonName": "Hardik Masalawala",
+      "email": "hardik@gmail.com",
+      "phone": 8787678909,
+      "website": "www.MDT.com",
+      "address": [
+        {
+          "mainAddress": "dhdjhdsjchsj"
+        },
+        {
+          "billingAddress": "skcskdjsksj"
+        }
+      ],
+      "number": [
+        {
+          "subPersonName": "Afzal Patel",
+          "subContact0": "7878109289",
+          "contactRoles": [
+            "Higher-Authority",
+            "Manager"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "work"
+            }
+          ]
+        },
+        {
+          "subPersonName": "Hrithik",
+          "subContact1": "8897001289",
+          "contactRoles": [
+            "HR"
+          ],
+          "isPrimary": false,
+          "contactMethod": [
+            {
+              "contactMethodType": "work"
+            }
+          ]
+        },
+        {
+          "subPersonName": "Ritesh",
+          "subContact2": "7789864521",
+          "contactRoles": [
+            "Manager"
+          ],
+          "isPrimary": false,
+          "contactMethod": [
+            {
+              "contactMethodType": "fax"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "companyName": "Google",
+      "contactPersonName": "Sundar Pitchai",
+      "email": "sundar@gmail.com",
+      "phone": 8878671567,
+      "website": "www.google.com",
+      "address": [
+        {
+          "mainAddress": "Main Street"
+        },
+        {
+          "billingAddress": "California"
+        }
+      ],
+      "number": [
+        {
+          "subPersonName": "Shivam",
+          "subContact0": 7787890987,
+          "contactRoles": [
+            "Higher-Authority"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "home"
+            }
+          ]
+        },
+        {
+          "subPersonName": "Bharat",
+          "subContact1": 9825100517,
+          "contactRoles": [
+            "Admin",
+            "Higher-Authority"
+          ],
+          "isPrimary": false,
+          "contactMethod": [
+            {
+              "contactMethodType": "home"
+            }
+          ]
+        },
+        {
+          "subPersonName": "Prakash",
+          "subContact2": 8401840200,
+          "contactRoles": [
+            "Manager"
+          ],
+          "isPrimary": true,
+          "contactMethod": [
+            {
+              "contactMethodType": "fax"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "parts": [
+    {
+      "id": 1,
+      "partNo": 21678,
+      "description": "Aluminium & Nickel",
+      "manufacturer": "Nipon steel"
+    },
+    {
+      "id": 2,
+      "partNo": 53711,
+      "description": "Steel & Brass",
+      "manufacturer": "Arcelor Mittal"
+    },
+    {
+      "id": 3,
+      "partNo": 11377,
+      "description": "Bronze",
+      "manufacturer": "Nilkanth Furnitures"
+    }
+  ],
+  "master-parts": [
+    {
+      "id": 1,
+      "companyName": "L&T",
+      "partName": "Mica-34",
+      "modelNo": "77777",
+      "type": "Original",
+      "warrantyTime": "24 months",
+      "warrantyBy": "Manufacturer"
+    },
+    {
+      "id": 3,
+      "companyName": "Nippon Steel",
+      "partName": "Brass-98",
+      "modelNo": "78789",
+      "type": "Compatible",
+      "warrantyTime": "36 months",
+      "warrantyBy": "Service"
+    },
+    {
+      "id": 4,
+      "companyName": "Nilkanth Industries",
+      "partName": "Steel-89",
+      "modelNo": "56718",
+      "type": "Compatible",
+      "warrantyTime": "24 months",
+      "warrantyBy": "Manufacturer"
+    },
+    {
+      "id": 5,
+      "companyName": "Reliance",
+      "partName": "Sag",
+      "modelNo": "89898",
+      "type": "Original",
+      "warrantyTime": "30 months",
+      "warrantyBy": "Manufacturer"
+    },
+    {
+      "id": 6,
+      "companyName": "ANC",
+      "partName": "Alloy-12",
+      "modelNo": "78767",
+      "type": "Compatible",
+      "warrantyTime": "12 months",
+      "warrantyBy": "Service"
+    }
+  ],
+  "child-parts": [
+    {
+      "id": 1,
+      "masterCompanyName": "L&T",
+      "companyName": "AM",
+      "partName": "Alloy-7",
+      "modelNo": "751",
+      "type": "Original",
+      "warrantyTime": "12 months",
+      "warrantyBy": "Manufacturer"
+    },
+    {
+      "id": 4,
+      "masterCompanyName": "L&T",
+      "companyName": "Reliance",
+      "partName": "Steel-89",
+      "modelNo": "782",
+      "type": "Original",
+      "warrantyTime": "12 months",
+      "warrantyBy": "Service"
+    },
+    {
+      "id": 5,
+      "masterCompanyName": "L&T",
+      "companyName": "L&T",
+      "partName": "SID23",
+      "modelNo": "1672",
+      "type": "Compatible",
+      "warrantyTime": "18 months",
+      "warrantyBy": "Service"
+    },
+    {
+      "id": 8,
+      "masterCompanyName": "Reliance",
+      "companyName": "Mittal Steel",
+      "partName": "Hydro-23",
+      "modelNo": "52167",
+      "type": "Compatible",
+      "warrantyTime": "24 months",
+      "warrantyBy": "Service"
+    },
+    {
+      "id": 11,
+      "masterCompanyName": "Nippon Steel",
+      "companyName": "AM|NS",
+      "partName": "Mica-134",
+      "modelNo": "67187",
+      "type": "Compatible",
+      "warrantyTime": "18 months",
+      "warrantyBy": "Service"
+    },
+    {
+      "id": 12,
+      "masterCompanyName": "Reliance",
+      "companyName": "L&T",
+      "partName": "Mica-134",
+      "modelNo": "67361",
+      "type": "Original",
+      "warrantyTime": "24 months",
+      "warrantyBy": "Manufacturer"
+    },
+    {
+      "id": 13,
+      "masterCompanyName": "Reliance",
+      "companyName": "Mittal Steel",
+      "partName": "Alum-12",
+      "modelNo": "57656",
+      "type": "Compatible",
+      "warrantyTime": "18 months",
+      "warrantyBy": "Service"
+    },
+    {
+      "id": 14,
+      "masterCompanyName": "ANC",
+      "companyName": "DBR",
+      "partName": "Hydro-01",
+      "modelNo": "56278",
+      "type": "Original",
+      "warrantyTime": "24 months",
+      "warrantyBy": "Manufacturer"
+    },
+    {
+      "id": 15,
+      "masterCompanyName": "L&T",
+      "companyName": "ONGC",
+      "partName": "Mica-23",
+      "modelNo": "56172",
+      "type": "Original",
+      "warrantyTime": "18 months",
+      "warrantyBy": "Manufacturer"
+    },
+    {
+      "id": 16,
+      "masterCompanyName": "L&T",
+      "companyName": "ESSAR pvt ltd",
+      "partName": "Wood-34",
+      "modelNo": "78261",
+      "type": "Original",
+      "warrantyTime": "12 months",
+      "warrantyBy": "Manufacturer"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "img": "https://purepng.com/public/uploads/large/purepng.com-earth-planet-globe-worldnatureearthglobeplanetworld-961524677896ubxtw.png",
+      "name": "Shivam Siddhpura",
+      "email": "test@email.com",
+      "mobile": "7990565083",
+      "birthDate": "2018-02-25T14:22:18Z",
+      "address": "God creature is sixth was abundantly and sea gathered",
+      "note": "Fowl darkness our sixth heaven. In image lights fourth a hath don't Abundantly they're, image you're . God creature is sixth was abundantly and sea gathered i the two let upon days.\n\nVery make fly saying light don't. Forth, replenish likeness."
+    },
+    {
+      "id": 2,
+      "img": "http://cdn.onlinewebfonts.com/svg/img_405142.png",
+      "name": "Riya Chapatwala",
+      "email": "test234@email.com",
+      "mobile": "8329567890",
+      "birthDate": "1985-04-14T14:22:18Z",
+      "address": "Celeste Slater 606-3727 Ullamcorper. Street Roseville NH 11523",
+      "note": "Winged lights seed don't"
+    },
+    {
+      "id": 3,
+      "img": "https://logospng.org/download/bmw/logo-bmw-4096.png",
+      "name": "Manthan Siddhapura",
+      "email": "manthan@gmail.com",
+      "mobile": 8788909878,
+      "birthDate": "2021-11-14T18:30:00.000Z",
+      "address": "97, Govind Nagar Society, Honey Park Road, Adajan, Surat",
+      "note": "Hello, I am Doing Masters in Oral Surgery"
+    },
+    {
+      "id": 4,
+      "img": "https://pluspng.com/img-png/free-icons-png-green-eye-png-image-1024.png",
+      "name": "Bharat Siddhapura",
+      "email": "bas@gmail.com",
+      "mobile": 9879200036,
+      "birthDate": "2021-11-16T18:30:00.000Z",
+      "address": "L&T, Hazira Road, Surat",
+      "note": "I am a Joint General Manager At L&T"
+    },
+    {
+      "id": 5,
+      "img": "https://www.freeiconspng.com/uploads/cartoon-rabbit-png-18.png",
+      "name": "Rena Siddhapura",
+      "email": "rena13@gmail.com",
+      "mobile": 9825100517,
+      "birthDate": "2021-12-02T18:30:00.000Z",
+      "address": "Nilkanth Row House, Near Kalamandir Jewellers, Bharuch",
+      "note": "Hi, I am a Proud HouseWife"
+    },
+    {
+      "id": 6,
+      "img": "https://pngimg.com/uploads/cinderella/cinderella_PNG12.png",
+      "name": "Naisargi Mehta",
+      "email": "naisu@yahoo.com",
+      "mobile": 7789890891,
+      "birthDate": "2021-02-21T18:30:00.000Z",
+      "address": "A-2, Paras Bunglows, Satellite Road, Bopal, Ahmedabad",
+      "note": "Hi, I am doing masters in Ortho"
+    }
+  ],
+  "inventory": [
+    {
+      "id": 1,
+      "recordNo": "131",
+      "allocatedQTY": 7,
+      "remainQTY": 3,
+      "reqQTY": 8,
+      "manuDate": "2020-04-14T14:22:18Z",
+      "partNo": 12,
+      "unitPrice": 500,
+      "serialNo": 213,
+      "originalSource": "Anc",
+      "recievedDate": "2021-02-21T18:30:00.000Z",
+      "sourceType": "Manufacturer",
+      "sourceCost": 415,
+      "warehouse": "Available"
+    },
+    {
+      "id": 2,
+      "recordNo": "100",
+      "allocatedQTY": 5,
+      "remainQTY": 5,
+      "reqQTY": 15,
+      "manuDate": "2021-06-14T14:22:18Z",
+      "partNo": 19,
+      "unitPrice": 350,
+      "serialNo": 891,
+      "originalSource": "Xyz",
+      "recievedDate": "2021-07-08T18:30:00.000Z",
+      "sourceType": "Service",
+      "sourceCost": 300,
+      "warehouse": "Available"
+    },
+    {
+      "id": 5,
+      "recordNo": "007",
+      "allocatedQTY": 15,
+      "remainQTY": 21,
+      "reqQTY": 23,
+      "manuDate": "2021-07-22T18:30:00.000Z",
+      "partNo": 12,
+      "unitPrice": 222,
+      "serialNo": 2222,
+      "originalSource": "Steel-89",
+      "recievedDate": "2021-07-26T18:30:00.000Z",
+      "sourceType": "Service",
+      "sourceCost": 1222,
+      "warehouse": "Sold-Out"
+    },
+    {
+      "id": 6,
+      "recordNo": "234",
+      "allocatedQTY": 7,
+      "remainQTY": 3,
+      "reqQTY": 10,
+      "manuDate": "2021-03-05T18:30:00.000Z",
+      "partNo": 143,
+      "unitPrice": 900,
+      "serialNo": 234,
+      "originalSource": "Axen",
+      "recievedDate": "2021-03-19T18:30:00.000Z",
+      "sourceType": "Service",
+      "sourceCost": 800,
+      "warehouse": "Available"
+    },
+    {
+      "id": 7,
+      "recordNo": "256",
+      "allocatedQTY": 15,
+      "remainQTY": 7,
+      "reqQTY": 22,
+      "manuDate": "2021-05-06T18:30:00.000Z",
+      "partNo": 213,
+      "unitPrice": 350,
+      "serialNo": 561,
+      "originalSource": "Mica-21",
+      "recievedDate": "2021-05-27T18:30:00.000Z",
+      "sourceType": "Service",
+      "sourceCost": 300,
+      "warehouse": "Available"
+    },
+    {
+      "id": 8,
+      "recordNo": "891",
+      "allocatedQTY": 20,
+      "remainQTY": 3,
+      "reqQTY": 23,
+      "manuDate": "2021-06-13T18:30:00.000Z",
+      "partNo": 231,
+      "unitPrice": 1000,
+      "serialNo": 114,
+      "originalSource": "Sac",
+      "recievedDate": "2021-06-22T18:30:00.000Z",
+      "sourceType": "Manufacturer",
+      "sourceCost": 950,
+      "warehouse": "Sold-Out"
+    }
+  ],
+  "sales-orders": [
+    {
+      "id": 1,
+      "orderNo": 2,
+      "totalItems": 11,
+      "company": "L&T",
+      "entryDate": "2021-06-13T18:30:00.000Z",
+      "followUpDate": "2021-06-23T18:30:00.000Z",
+      "expirationDate": "2022-06-12T18:30:00.000Z",
+      "totalCost": 5000,
+      "totalPrice": 850,
+      "contact": 7990565083,
+      "createdBy": "Company",
+      "salesPerson": "Anup Malik",
+      "priority": "Minimal",
+      "statusId": 3,
+      "index": 2
+    },
+    {
+      "id": 2,
+      "orderNo": 6,
+      "totalItems": 6,
+      "company": "Reliance",
+      "entryDate": "2020-04-06T18:30:00.000Z",
+      "followUpDate": "2020-05-07T18:30:00.000Z",
+      "expirationDate": "2022-05-06T18:30:00.000Z",
+      "totalCost": 4500,
+      "totalPrice": 1150,
+      "contact": 987920036,
+      "createdBy": "Third-Party",
+      "salesPerson": "Rakesh Patel",
+      "priority": "Minimal",
+      "statusId": 2,
+      "index": 1
+    },
+    {
+      "id": 3,
+      "orderNo": 12,
+      "totalItems": 10,
+      "company": "Essar",
+      "entryDate": "2021-07-01T18:30:00.000Z",
+      "followUpDate": "2021-07-12T18:30:00.000Z",
+      "expirationDate": "2021-10-06T18:30:00.000Z",
+      "totalCost": 15000,
+      "totalPrice": 7500,
+      "contact": "8792898728",
+      "createdBy": "Third-Party",
+      "salesPerson": "Amit Kapoor",
+      "priority": "High",
+      "statusId": 4,
+      "index": 0
+    },
+    {
+      "id": 4,
+      "orderNo": 56,
+      "totalItems": 12,
+      "company": "SID's Pvt Ltd",
+      "entryDate": "2021-07-01T18:30:00.000Z",
+      "followUpDate": "2021-08-01T18:30:00.000Z",
+      "expirationDate": "2022-08-01T18:30:00.000Z",
+      "totalCost": 15500,
+      "totalPrice": 7500,
+      "contact": "7363736789",
+      "createdBy": "Company",
+      "salesPerson": "Shivam Siddhapura",
+      "priority": "High",
+      "statusId": 2,
+      "index": 0
+    },
+    {
+      "id": 5,
+      "orderNo": 122,
+      "totalItems": 122,
+      "company": "ABCD",
+      "entryDate": "2021-06-30T18:30:00.000Z",
+      "followUpDate": "2021-07-01T18:30:00.000Z",
+      "expirationDate": "2021-07-11T18:30:00.000Z",
+      "totalCost": 5455,
+      "totalPrice": 3333,
+      "contact": "7585758599",
+      "createdBy": "Third-Party",
+      "salesPerson": "sss",
+      "priority": "Moderate",
+      "statusId": 3,
+      "index": 0
+    },
+    {
+      "id": 6,
+      "orderNo": 12,
+      "totalItems": 21,
+      "company": "Amez",
+      "entryDate": "2021-08-07T18:30:00.000Z",
+      "followUpDate": "2021-10-07T18:30:00.000Z",
+      "expirationDate": "2022-08-06T18:30:00.000Z",
+      "totalCost": 25000,
+      "totalPrice": 20000,
+      "contact": "7763748989",
+      "createdBy": "Third-Party",
+      "salesPerson": "Sanjay Singhania",
+      "priority": "Moderate",
+      "statusId": 1,
+      "index": 0
+    },
+    {
+      "id": 7,
+      "orderNo": 12,
+      "totalItems": 67,
+      "company": "PXA",
+      "entryDate": "2021-08-06T18:30:00.000Z",
+      "followUpDate": "2021-08-13T18:30:00.000Z",
+      "expirationDate": "2022-08-05T18:30:00.000Z",
+      "totalCost": 75000,
+      "totalPrice": 70000,
+      "contact": "7763782909",
+      "createdBy": "Third-Party",
+      "salesPerson": "Ashish Patel",
+      "priority": "Moderate",
+      "statusId": 3,
+      "index": 1
+    }
+  ],
+  "kanban": [
+    {
+      "id": 1,
+      "statusId": 1,
+      "statusName": "Under-Review"
+    },
+    {
+      "id": 2,
+      "statusId": 2,
+      "statusName": "Processing"
+    },
+    {
+      "id": 3,
+      "statusId": 3,
+      "statusName": "Completed"
+    },
+    {
+      "id": 9,
+      "statusId": 4,
+      "statusName": "end"
+    }
+  ]
+}
